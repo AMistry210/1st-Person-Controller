@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <playerPosition>
+    <x>7.810509</x>
+    <y>1.02176118</y>
+    <z>31.6718521</z>
+  </playerPosition>
+  <timer>7.294481</timer>
+  <currentAmmoClip>29</currentAmmoClip>
+  <ammoInReserve>200</ammoInReserve>
+</SaveData>
